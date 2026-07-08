@@ -1,2 +1,2 @@
 # backend-node
-ejerciisios de aprendizaje de backen con node.js
+ejerciisios de aprendizaje de backend con node.js
